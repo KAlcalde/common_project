@@ -1,0 +1,45 @@
+body{
+    background-color: lightblue;
+    color: purple;
+}
+
+h1{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h2{
+    font-size: 30px;
+    font-family: Verdana, Tahoma, sans-serif;
+    color: darkblue;
+}
+
+h3{
+    font-size: 20px;
+    font-family: Tahoma, sans-serif;
+    color: brown;
+}
+
+p{
+    line-height: 1.4;
+}
+
+img{
+    border-style: solid;
+    border-width: 5px;
+    padding: 10px;
+    margin: 20px;
+    border-top-right-radius: 30px;
+}
+
+nav{
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
+
+li{
+    display: inline-block;
+    margin-left: 50px;
+}
